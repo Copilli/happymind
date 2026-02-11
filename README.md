@@ -7,3 +7,4 @@ Para cuidar tu salud mental, enfócate en un estiló de vida saludable con ejerc
 
 Como puedo cuidar mi salud mental,
 Haz ejercicio con regularidad,consuma alimentos saludables y comidas con regularidad y manténgase hidratado,dele prioridad al sueño,intente practicar una actividad relajante establezca metas y prioridades,practique la gratitud y centre su atención a las cosas positivas.
+>html<como cuidar tu salud mental >
