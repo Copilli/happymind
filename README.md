@@ -17,4 +17,4 @@ Como puedo cuidar mi salud mental:
 Como-Cuidar-tu-salud-mental💚
 Cuando hablamos de salud mental solemos pensar en evitar problemas, como la depresión, la ansiedad o el suicidio. Sin embargo, la salud mental se trata de mantener nuestro bienestar, tener estabilidad y una buena conexión tanto con nosotros mismo como con las demás personas que nos rodean y con quienes interactuamos en distintos espacios.🌟 
 
-<saludmental.png>![alt text](image.jpeg)
+<saludmental.png>[alt text](image.jpeg)
