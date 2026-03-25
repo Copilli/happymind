@@ -5,13 +5,13 @@ La salud mental es un estado de bienestar emocional,psicólogo y social que infl
 
 
 🧠✨
-Como puedo cuidar mi salud mental:
+<p>Como puedo cuidar mi salud mental:
 -Haz ejercicio con regularidad.
 -consuma alimentos saludables.
 -comidas con regularidad y manténgase hidratado.
 -Dele prioridad al sueño.
 -intente practicar una actividad relajante establezca metas y prioridades.
--practique la gratitud y centre su atención a las cosas positivas.
+-practique la gratitud y centre su atención a las cosas positivas.<p>
 
 
 Como-Cuidar-tu-salud-mental💚
