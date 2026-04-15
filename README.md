@@ -19,10 +19,3 @@ Como puedo cuidar mi salud mental?:</h1>
 img src="image.jpeg"alt=""
 
 <saludmental.png>[alt text](image.jpeg)
-
-<h1>Contestalo🫰🏻</h1>
-
-  <iframe src= "https://docs.google.com/forms/d/e/1FAIpQLSdQ4vmGth5dH834PrTe2pDYeQ7AFNTLwywmtw77DQE0dT2YIQ/viewform?usp=header"
-</body
-
-</html>
