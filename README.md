@@ -17,11 +17,12 @@ Como puedo cuidar mi salud mental?:</h1>
 <h1>Como Cuidar tu salud mental💚</h1>
 <p>Cuando hablamos de salud mental solemos pensar en evitar problemas, como la depresión, la ansiedad o el suicidio. Sin embargo, la salud mental se trata de mantener nuestro bienestar, tener estabilidad y una buena conexión tanto con nosotros mismo como con las demás personas que nos rodean y con quienes interactuamos en distintos espacios.🌟 </p>
 img src="image.jpeg"alt=""
+
 <saludmental.png>[alt text](image.jpeg)
 
 <h1>Contestalo🫰🏻</h1>
 
-  <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdQ4vmGth5dH834PrTe2pDYeQ7AFNTLwywmtw77DQE0dT2YIQ/viewform?usp=header"
+  <iframe src= "https://docs.google.com/forms/d/e/1FAIpQLSdQ4vmGth5dH834PrTe2pDYeQ7AFNTLwywmtw77DQE0dT2YIQ/viewform?usp=header"
 </body
 
 </html>
