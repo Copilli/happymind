@@ -4,8 +4,8 @@ Nuestro proyecto es una aplicación para aprender sobre la salud mental y como c
 La salud mental es un estado de bienestar emocional,psicólogo y social que influye en cómo pensamos,sentimos,actuamos y manejemos de estrés en la vida diaria.Es fundamental en todas las etapas,permitiendo desarrollar habilidades,mantener relaciones y trabajar productivamente.Más que la ausencia de enfermedad,abarca el equilibrio personal y la capacidad de afrontar desafíos.❤️
 
 
-🧠✨
-<p>Como puedo cuidar mi salud mental:
+<h1🧠✨
+Como puedo cuidar mi salud mental?:</h1>
 -Haz ejercicio con regularidad.
 -consuma alimentos saludables.
 -comidas con regularidad y manténgase hidratado.
@@ -14,12 +14,12 @@ La salud mental es un estado de bienestar emocional,psicólogo y social que infl
 -practique la gratitud y centre su atención a las cosas positivas.<p>
 
 
-<h1>Como-Cuidar-tu-salud-mental💚</h1>
+<h1>Como Cuidar tu salud mental💚</h1>
 <p>Cuando hablamos de salud mental solemos pensar en evitar problemas, como la depresión, la ansiedad o el suicidio. Sin embargo, la salud mental se trata de mantener nuestro bienestar, tener estabilidad y una buena conexión tanto con nosotros mismo como con las demás personas que nos rodean y con quienes interactuamos en distintos espacios.🌟 </p>
 img src="image.jpeg"alt=""
 <saludmental.png>[alt text](image.jpeg)
 
-<h1>Contestalo</h1>
+<h1>Contestalo🫰🏻</h1>
   <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdQ4vmGth5dH834PrTe2pDYeQ7AFNTLwywmtw77DQE0dT2YIQ/viewform?usp=header"
 </body
 
