@@ -20,10 +20,10 @@ img src="image.jpeg"alt=""
 
 <h1>¿Porque es importante?
 <p>La salud mental afecta prácticamente todas las áreas de la vida:
-* Sueño
-* Energía y motivación
-* Concentración y memoria
-* Relaciones personales
-* Rendimiento escolar o laboral
-* Salud física
-* Manejo del estrés y emociones
+* Sueño.
+* Energía y motivación.
+* Concentración y memoria.
+* Relaciones personales.
+* Rendimiento escolar o laboral.
+* Salud física.
+* Manejo del estrés y emociones.
