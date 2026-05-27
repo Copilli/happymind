@@ -16,7 +16,11 @@ La salud mental es un estado de bienestar emocional,psicólogo y social que infl
 
 <h1>Como Cuidar tu salud mental💚</h1>
 <p>Cuando hablamos de salud mental solemos pensar en evitar problemas, como la depresión, la ansiedad o el suicidio. Sin embargo, la salud mental se trata de mantener nuestro bienestar, tener estabilidad y una buena conexión tanto con nosotros mismo como con las demás personas que nos rodean y con quienes interactuamos en distintos espacios.🌟 </p>
-img src="image.jpeg"alt=""
+</head>
+    <body>
+    <img src="image.jpeg">
+  <body>
+<html>
 
 <h1>¿Porque es importante?
 <p>La salud mental afecta prácticamente todas las áreas de la vida:
