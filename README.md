@@ -31,4 +31,4 @@ La salud mental es un estado de bienestar emocional,psicólogo y social que infl
 * Relaciones personales.
 * Rendimiento escolar o laboral.
 * Salud física.
-* Manejo del estrés y emociones.
+* Manejo del estrés y emociones.<p>
